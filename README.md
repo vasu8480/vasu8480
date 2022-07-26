@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **devops**
 
-- 👨‍💻 All of my projects are available at [http://nurukurthivasu.tk/](http://nurukurthivasu.tk/)
+- 👨‍💻 My Profolio [http://nurukurthivasu.tk/](http://nurukurthivasu.tk/)
 
 - 💬 Ask me about **cloud,networking,linux**
 
 - 📫 How to reach me **vasu8480@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/FHKQ2](https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf)<!-- url is shortten -https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf-->
+- 📄 Download My Reesume [shorturl.at/FHKQ2](https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf)<!-- url is shortten -https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf-->
 
 ## Connect with me:
 <p align="left">
