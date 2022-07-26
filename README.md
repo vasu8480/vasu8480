@@ -39,17 +39,3 @@
 
 
 
-#### Top Repositories
-
-<a href="https://github.com/vasu840/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragvasu840hazra&repo=github-readme-stats&theme=buefy" />
-</a>
-
-<a href="https://github.com/vasu840/vasu840.github.io">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasu840&repo=vasu840.github.io&theme=buefy" />
-
-</a>
-<br />
-<br />
-
