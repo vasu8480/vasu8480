@@ -60,7 +60,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
 ## Activity Graph
-<a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasu8480&theme=vue" /><a>
+<h1><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasu8480&theme=vue" /><h1>
 
 
 ## 📈 GitHub Stats
