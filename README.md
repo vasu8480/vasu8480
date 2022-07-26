@@ -56,7 +56,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasu8480)](https://camo.githubusercontent.com/f0efb52bcfe78a5f836ead3f0bee6596dd5345c7a7cefc6c2cf9cd0892688254/68747470733a2f2f7472696e69622d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d7e2532307e2532307e2532304d7925323050726f66696c65253230436f6e747269627574696f6e25323047726170682532307e2532307e2532307e26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765h)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasu8480&theme=dracula))](https://github.com/vasu8480)
 
 ## 📈 GitHub Stats
 
