@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vasu8480/vasu8480/main/cloud.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu8480&label=Profile%20views&color=0e75b6&style=flat" alt="vasu8480" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vasu8480&label=Profile%20views&color=blueviolet&style=flat" alt="vasu8480" /> </p>
 
 ## 🙋‍♂️ About Me
 
