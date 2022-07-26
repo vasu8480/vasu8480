@@ -34,4 +34,22 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu8480&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="vasu8480" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu8480&show_icons=true&hide_border=true&theme=radical&locale=en" alt="vasu8480" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vasu8480&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="rishavchanda" /></p>
+
+
+
+#### Top Repositories
+
+<a href="https://github.com/vasu840/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuragvasu840hazra&repo=github-readme-stats&theme=buefy" />
+</a>
+
+<a href="https://github.com/vasu840/vasu840.github.io">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasu840&repo=vasu840.github.io&theme=buefy" />
+
+</a>
+<br />
+<br />
+
