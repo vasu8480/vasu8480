@@ -1,4 +1,4 @@
-<[![MasterHead](https://raw.githubusercontent.com/vasu8480/vasu8480/main/vasu.gif)](https://vasu8480.io) 
+<[![MasterHead](https://github.com/vasu8480/vasu8480/blob/main/vasu.mp4)](https://vasu8480.io) 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Vasu</h1>
 <h3 align="center">Looking for a challenging role in a reputable organization to utilize my technical and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</h3>
