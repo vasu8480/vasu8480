@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vasu</h1>
 <h3 align="center">Looking for a challenging role in a reputable organization to utilize my technical and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vasu8480/vasu8480/main/cloud.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu8480&label=Profile%20views&color=0e75b6&style=flat" alt="vasu8480" /> </p>
 
 
