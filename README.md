@@ -21,9 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vasu-nurukurthi-231204180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu-nurukurthi-231204180" height="30" width="40" /></a>
-
-<a href="https://instagram.com/vasu_the_voice_of_youth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_the_voice_of_youth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vasu-nurukurthi-231204180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu-nurukurthi-231204180" height="30" width="40" /></a><a href="https://instagram.com/vasu_the_voice_of_youth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_the_voice_of_youth" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu8480" height="30" width="40" /></a>
 
