@@ -61,7 +61,7 @@
 
 ## Activity Graph
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vasu8480&&theme=xcode)](https://github.com/vasu8480)
+[![Sarthak's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasu8480&theme=vue)](https://github.com/vasu8480)
 
 ## 📈 GitHub Stats
 
