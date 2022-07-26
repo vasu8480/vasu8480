@@ -21,7 +21,10 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/vasu-nurukurthi-231204180" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="vasu-nurukurthi-231204180" height="40" width="40" /></a><a href="https://instagram.com/vasu_the_voice_of_youth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_the_voice_of_youth" height="30" width="40" /></a>  <a href="https://www.hackerrank.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu8480" height="30" width="40" /></a>  <a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/vasu-nurukurthi-231204180" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="vasu-nurukurthi-231204180" height="40" width="40" /></a>
+<a href="https://instagram.com/vasu_the_voice_of_youth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_the_voice_of_youth" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu8480" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
