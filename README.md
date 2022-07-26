@@ -56,7 +56,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vasu8480&&theme=xcode)](https://github.com/vasu8480)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vasu8480&&theme=xcode)](https://github.com/vasu8480)
 
 ## 📈 GitHub Stats
 
