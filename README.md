@@ -1,6 +1,11 @@
 <!--[![MasterHead](https://raw.githubusercontent.com/vasu8480/vasu8480/main/aws_soultion.gif)](https://vasu8480.io) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Vasu</h1>
+<h1 align="center"> <span style="color:#FF0000">H</span>
+    <span style="color:#66CC66">e</span>
+    <span style="color:#FF9966">l</span>
+    <span style="color:#FFCCCC">l</span>
+    <span style="color:#FF0066">o</span>
+		Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Vasu</h1>
 <h3 align="center">Looking for a challenging role in a reputable organization to utilize my technical and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vasu8480/vasu8480/main/cloud.gif">
