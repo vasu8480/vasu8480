@@ -62,7 +62,6 @@
 ## Activity Graph
 <a><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasu8480&theme=vue" /><a>
 
-[![vasu's GitHub activity graph](https://github-profile-smmary-cards.vercel.app/api/cards/profile-details?username=vasu8480&theme=vue)](https://github.com/vasu8480)u
 
 ## 📈 GitHub Stats
 
