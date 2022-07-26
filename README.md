@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/vasu8480/vasu8480/main/cloud.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu8480&label=Profile%20views&color=blueviolet&style=flat" > <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vasu8480}1212%2Fhit-counter"</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu8480&label=Profile%20views&color=blueviolet&style=flat" > <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{vasu8480}1212%2Fhit-counter"> <img src="https://img.shields.io/badge/h-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></p>
 
 ## 🙋‍♂️ About Me
 
@@ -68,3 +68,4 @@
 <img height="190px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu8480&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <img height="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vasu8480&theme=2077" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=vasu8480&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vasu8480&theme=2077&utcOffset=8"/>
+
