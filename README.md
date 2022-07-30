@@ -28,6 +28,16 @@
 
 
 ## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="35" width="35"/> Certifications:</h2></a>
+- Aws Certified Solutions Architect (Associate) [Link for Certificate](shorturl.at/dejk2)
+                                                [Link for Digital Badge]()
+
+- Azure(Az-900) [Link for Certificate](shorturl.at/fgpuw)
+                [Link for Digital Badge]()
+
+- 💬 Ask me about **cloud,networking,linux**
+
+
+
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
