@@ -27,17 +27,17 @@
 <a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
 
 
-## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="35" width="35"/> Certifications:</h2></a>
+## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="35" width="33"/> Certifications:</h2></a>
 
 - **Aws Certified Solutions Architect (Associate)** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png) 	- 	[Link for Digital Badge](https://www.credly.com/badges/5e710905-4a88-4b90-91e4-c2c781b2c9cd/public_url)
 
 - **Azure(Az-900)** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Microsoft_Certified_Azure.png)	 - 	[Link for Digital Badge](https://www.credly.com/badges/24c61a0e-2964-4538-a237-05242bc362ea/public_url)
 
-- **MTA Security Fundamentals** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/MTA%20security%20fundamentals.png)	 - 	[Link for Digital Badge]()
+- **Juniper Networks Certified Associate** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Junos%20certificate.png)	 - 	[Link for Digital Badge](https://www.credly.com/badges/51974264-f29b-433e-99d9-d2adcc153de1/public_url)
 
-- **Juniper Networks Certified Associate** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Junos%20certificate.png)	 - 	[Link for Digital Badge]()
+- **Aviatric certified Engineer** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Aviatric%20certified%20Engineer%20Multi-Cloud.png)	 - 	[Link for Digital Badge](https://www.credly.com/badges/201ba22c-0f08-4bc8-aae9-5cb4b7fd6bdf/public_url)
 
-- **Aviatric certified Engineer** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Aviatric%20certified%20Engineer%20Multi-Cloud.png)	 - 	[Link for Digital Badge]()
+- **MTA Security Fundamentals** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/MTA%20security%20fundamentals.png)
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
