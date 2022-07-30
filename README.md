@@ -27,7 +27,7 @@
 <a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
 
 
-## <h3 align="left"><img src="./icon_certificate.png>Certifications:</h3>
+## <h3 align="left"><img src="icon_certificate.png>Certifications:</h3>
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
