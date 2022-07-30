@@ -28,6 +28,7 @@
 
 
 ## <h3 align="left" <img src=".../icons8-certificate-32.png"> Certifications:</h3>
+<a href="https://linkedin.com/in/vasu-nurukurthi-231204180" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" alt="vasu-nurukurthi-231204180" height="40" width="40" /></a>
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
