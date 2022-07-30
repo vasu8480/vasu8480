@@ -27,7 +27,7 @@
 <a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
 
 
-## <h1 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="40" width="40"/>Certifications:</h1>
+## <h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="40" width="40"/> Certifications:</h2>
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
