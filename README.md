@@ -28,8 +28,7 @@
 
 
 ## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="35" width="35"/> Certifications:</h2></a>
-- Aws Certified Solutions Architect (Associate) [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png)
-[Link for Digital Badge]()
+- Aws Certified Solutions Architect (Associate) [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png)	[Link for Digital Badge]()
 
 - Azure(Az-900) [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Microsoft_Certified_Azure.png)
                 [Link for Digital Badge]()
