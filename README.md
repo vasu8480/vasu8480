@@ -34,9 +34,9 @@
 
 - **MTA Security Fundamentals** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/MTA%20security%20fundamentals.png)	 - 	[Link for Digital Badge]()
 
-- **Juniper Networks Certified Associate** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Juniper%20Networks%20Certified%20Associate.png)	 - 	[Link for Digital Badge]()
+- **Juniper Networks Certified Associate** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Junos%20certificate.png)	 - 	[Link for Digital Badge]()
 
-- **Aviatric certified Engineer** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Aviatric%20certified%20Engineer.png)	 - 	[Link for Digital Badge]()
+- **Aviatric certified Engineer** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/Aviatric%20certified%20Engineer%20Multi-Cloud.png)	 - 	[Link for Digital Badge]()
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
