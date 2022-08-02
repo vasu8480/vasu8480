@@ -19,7 +19,7 @@
 
 - 📄 Download My Reesume [shorturl.at/FHKQ2](https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf)<!-- url is shortten -https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf-->
 
-## <h2>Connect with me:</h2>
+## <h2 align="left">Connect with me:</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/vasu-nurukurthi-231204180" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="vasu-nurukurthi-231204180" height="40" width="40" /></a>
