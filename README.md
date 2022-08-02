@@ -19,7 +19,8 @@
 
 - 📄 Download My Resume [shorturl.at/FHKQ2](https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf)<!-- url is shortten -https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf-->
 
-- 👨‍🎓 I trained more than 150 students at Thub as an intern in the AWS cloud
+- 👨‍🎓 I trained more than 150 students at Thub as an intern 
+	in the AWS cloud
 
 ## <h2 align="left">Connect with me:</h2>
 
