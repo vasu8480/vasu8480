@@ -39,7 +39,15 @@
 
 - **MTA Security Fundamentals** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/MTA%20security%20fundamentals.png)
 
+
 ## <a target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-rewards-home-based-business-flaticons-flat-flat-icons-2.png" height="35" width="35"/> Digital Badge:</h2></a>
+
+- **AWS Learning: Object Storage** [Link for Badge](https://www.credly.com/badges/7ed3642e-0eae-4d3b-9265-98098c390b39/public_url)
+
+- **AWS Academy Graduate - AWS Academy Cloud Foundations** [Link for Badge](https://www.credly.com/badges/4cf2b6cd-c842-4d7b-93c6-7c4558709976/public_url)
+
+- **IBM Cloud Essentials** [Link for Badge](https://www.credly.com/badges/b90b65aa-b6a1-46a8-9553-7d08b9477ab6/public_url)
+
 
 
 ## 🚀 Technologies and Skills:
