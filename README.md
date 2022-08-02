@@ -40,7 +40,7 @@
 - **MTA Security Fundamentals** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/MTA%20security%20fundamentals.png)
 
 
-## <a target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-rewards-home-based-business-flaticons-flat-flat-icons-2.png" height="35" width="35"/> Digital Badge:</h2></a>
+## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-rewards-home-based-business-flaticons-flat-flat-icons-2.png" height="35" width="35"/> Digital Badges:</h2></a>
 
 - **AWS Learning: Object Storage** [Link for Badge](https://www.credly.com/badges/7ed3642e-0eae-4d3b-9265-98098c390b39/public_url)
 
