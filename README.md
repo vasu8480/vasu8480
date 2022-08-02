@@ -48,7 +48,11 @@
 
 - **IBM Cloud Essentials** [Link for Badge](https://www.credly.com/badges/b90b65aa-b6a1-46a8-9553-7d08b9477ab6/public_url)
 
+- **Introduction to Cybersecurity** [Link for Badge](https://www.credly.com/badges/a7102fc2-4869-4cff-9f97-d1bcc38b8780/public_url)
 
+- **Cybersecurity Essentials** [Link for Badge](https://www.credly.com/badges/1fd6c9b3-75dc-43fb-a827-53662783945b/public_url)
+
+- **Cloud Core** [Link for Badge](hhttps://www.credly.com/badges/86d4fa6f-3182-45d1-9ad6-0738877dd9df/public_url)
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
