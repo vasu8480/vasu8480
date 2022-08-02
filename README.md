@@ -52,7 +52,8 @@
 
 - **Cybersecurity Essentials** [Link for Badge](https://www.credly.com/badges/1fd6c9b3-75dc-43fb-a827-53662783945b/public_url)
 
-- **Cloud Core** [Link for Badge](hhttps://www.credly.com/badges/86d4fa6f-3182-45d1-9ad6-0738877dd9df/public_url)
+- **Cloud Core** [Link for Badge](https://www.credly.com/badges/86d4fa6f-3182-45d1-9ad6-0738877dd9df/public_url)
+
 
 ## 🚀 Technologies and Skills:
 <h3 align="left">Cloud and Devops Tools:</h3>
