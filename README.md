@@ -21,6 +21,9 @@
 
 - 👨‍🎓 I trained more than 150 students in the AWS cloud
 
+- 📚 I have a **Bachelor of Technology in ECE**
+
+-
 ## <h2 align="left">Connect with me:</h2>
 
 <p align="left">
