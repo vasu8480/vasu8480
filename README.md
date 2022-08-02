@@ -23,7 +23,8 @@
 
 - 📚 I have a **Bachelor of Technology in ECE** from **Aditya Engineering college**
 
--
+- **Solo Achiever but also a Team Player, Friendly Personality and a Hard Worker**.
+
 ## <h2 align="left">Connect with me:</h2>
 
 <p align="left">
