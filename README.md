@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **vasu8480@gmail.com**
 
-- 📄 Download My Reesume [shorturl.at/FHKQ2](https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf)<!-- url is shortten -https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf-->
+- 📄 Download My Resume [shorturl.at/FHKQ2](https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf)<!-- url is shortten -https://github.com/vasu8480/resume/blob/main/vasu_resume.pdf-->
+
+- 👨‍🎓 I trained more than 150 students at Thub as an intern in the AWS cloud
 
 ## <h2 align="left">Connect with me:</h2>
 
@@ -26,6 +28,7 @@
 <a href="https://instagram.com/vasu_the_voice_of_youth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasu_the_voice_of_youth" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu8480" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
+
 
 ## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="35" width="33"/> Certifications:</h2></a>
 
