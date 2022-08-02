@@ -27,7 +27,6 @@
 <a href="https://www.hackerrank.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu8480" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vasu8480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasu8480" height="30" width="40" /></a></p>
 
-
 ## <a href="https://github.com/vasu8480/Certifications" target="_blank"><h2 align="left"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-certificate-reward-and-badges-justicon-flat-justicon.png" height="35" width="33"/> Certifications:</h2></a>
 
 - **Aws Certified Solutions Architect (Associate)** [Link for Certificate](https://raw.githubusercontent.com/vasu8480/Certifications/main/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png) 	- 	[Link for Digital Badge](https://www.credly.com/badges/5e710905-4a88-4b90-91e4-c2c781b2c9cd/public_url)
